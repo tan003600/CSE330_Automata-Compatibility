@@ -1,0 +1,1 @@
+# CSE330_Automata-Compatibility
